@@ -2,7 +2,10 @@
     "name": "library/library",
     "type": "project",
     "description": "Library Management System",
-    "keywords": ["library", "book"],
+    "keywords": [
+        "library",
+        "book"
+    ],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
